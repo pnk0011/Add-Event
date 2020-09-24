@@ -1,0 +1,37 @@
+.applyToAll {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid blue;
+  border-radius: 2%;
+  color: blue;
+  cursor: pointer;
+  width: 147px;
+}
+
+.applyToAll:hover {
+  background-color: cornflowerblue;
+}
+
+.facilityTimes {
+  margin-top: 10px;
+}
+
+.float-right {
+  float: right;
+}
+
+.container-div {
+  padding: 5px;
+  background-color: cornsilk;
+}
+
+.NoLocation {
+  display: flex;
+  justify-content: center;
+  margin-top: 15%;
+}
+
+.md-form .validate {
+  margin-bottom: 0rem !important;
+}
